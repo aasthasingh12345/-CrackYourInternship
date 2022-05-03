@@ -4,7 +4,6 @@
 using namespace std;
 int find_dublicate(int arr[],int n)
 {
-	int x=0;
 	for(int i=0;i<n;i++)
 	{
 		for(int j=0;j<n;j++)
