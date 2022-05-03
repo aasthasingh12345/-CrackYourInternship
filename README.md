@@ -1,12 +1,12 @@
-#CrackYourInternship
+# CrackYourInternship
 
 
-Crack Your Internship challenge by Arsh Goyal
+## Crack Your Internship challenge by Arsh Goyal
 
-Challenge Accepted
+### Challenge Accepted
 
-Name-Aastha Singh
+#### Name-Aastha Singh
 
-Batch-2024
+#### Batch-2024
 
-College-Bnasthali Vidyapith
+#### College-Banasthali Vidyapith
