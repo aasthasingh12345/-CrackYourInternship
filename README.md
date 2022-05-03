@@ -1,4 +1,4 @@
-CrackYourInternship
+-CrackYourInternship
 
 
 Crack Your Internship challenge by Arsh Goyal
